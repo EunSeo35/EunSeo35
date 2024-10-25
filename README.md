@@ -10,7 +10,7 @@
 <hr/>
 
 
-<h3 align="left">📈 GitHub Stats</h3>
+<h3 align="left">📈 GitHub Status</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EunSeo35&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
